@@ -82,7 +82,7 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.jetbrains.teamcityasda</groupId>
+      <groupId>org.jetbrains.teamcity</groupId>
       <artifactId>configs-dsl-kotlin-plugins-latest</artifactId>
       <version>1.0-SNAPSHOT</version>
       <type>pom</type>
