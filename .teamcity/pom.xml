@@ -104,10 +104,5 @@
       <version>${kotlin.version}</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>com.github.JetBrains</groupId>
-      <artifactId>teamcity-pipelines-dsl</artifactId>
-      <version>0.8</version>
-    </dependency>
   </dependencies>
 </project>
